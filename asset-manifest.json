@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-drum-machine/static/css/main.aa208b75.css",
+    "main.js": "/react-drum-machine/static/js/main.28edd16a.js",
+    "static/media/Ride.wav": "/react-drum-machine/static/media/Ride.44e6385400f6b7c38f7c.wav",
+    "static/media/Crash.mp3": "/react-drum-machine/static/media/Crash.c53d4191af2441c2f76c.mp3",
+    "static/media/High-Hat-Open.mp3": "/react-drum-machine/static/media/High-Hat-Open.9282685719d27454df13.mp3",
+    "static/media/Floor-Tom.mp3": "/react-drum-machine/static/media/Floor-Tom.bd3634a9b5276ea4638c.mp3",
+    "static/media/High-Tom.mp3": "/react-drum-machine/static/media/High-Tom.987ad3c308df721308a4.mp3",
+    "static/media/Kick.mp3": "/react-drum-machine/static/media/Kick.df55382ea81805623026.mp3",
+    "static/media/Mid-Tom.mp3": "/react-drum-machine/static/media/Mid-Tom.8019ec63396fc9ace564.mp3",
+    "static/media/High-Hat-Closed.wav": "/react-drum-machine/static/media/High-Hat-Closed.cf3cfa53be3b4a6d1883.wav",
+    "static/media/Snare.mp3": "/react-drum-machine/static/media/Snare.f3b732c2e642ec026f08.mp3",
+    "index.html": "/react-drum-machine/index.html",
+    "main.aa208b75.css.map": "/react-drum-machine/static/css/main.aa208b75.css.map",
+    "main.28edd16a.js.map": "/react-drum-machine/static/js/main.28edd16a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.aa208b75.css",
+    "static/js/main.28edd16a.js"
+  ]
+}
